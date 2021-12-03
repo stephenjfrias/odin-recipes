@@ -1,2 +1,2 @@
 # odin-recipes
-this is where your recipes will go
+this is where my recipes will go
