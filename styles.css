@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.center {
+    display: block;
+    margin: auto;
+}
+
+body {
+    width: 75%;
+    margin: auto;
+}
+
+ol>li {
+    padding: 10px 0;
+}
+
+img {
+    padding: 10px 0;
+}
